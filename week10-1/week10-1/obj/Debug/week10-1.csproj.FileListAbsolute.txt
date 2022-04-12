@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\week10-1\week10-1\bin\Debug\week10-1.exe.config
+C:\Users\PC\source\repos\week10-1\week10-1\bin\Debug\week10-1.exe
+C:\Users\PC\source\repos\week10-1\week10-1\bin\Debug\week10-1.pdb
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10_1.Form1.resources
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10_1.Properties.Resources.resources
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10-1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10-1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10-1.exe
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10-1.pdb
+C:\Users\PC\source\repos\week10-1\week10-1\bin\Debug\cars.csv
+C:\Users\PC\source\repos\week10-1\week10-1\obj\Debug\week10-1.csproj.AssemblyReference.cache
